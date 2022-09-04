@@ -1,8 +1,3 @@
-/* Implementation of Recursive-Descent Parser
- * parse.cpp
- * Programming Assignment 2
- * Spring 2022
-*/
 
 #include "parse.h"
 
